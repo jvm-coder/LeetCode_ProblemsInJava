@@ -6,7 +6,7 @@
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<pre><strong>Input:</strong> nums = [1,2,2,4]
+<pre><strong>Input:</strong> nums = [1, 2, 2, 4]
 <strong>Output:</strong> [2,3]
 </pre><p><strong class="example">Example 2:</strong></p>
 <pre><strong>Input:</strong> nums = [1,1]
