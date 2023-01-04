@@ -7,6 +7,9 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 <pre><strong>Input:</strong> nums = [1,2,2,4]
+=======
+<pre><strong>Input:</strong> nums = [1, 2, 2, 4]
+>>>>>>> 95776b3289938736b4fd6cda3625f47591f8b4b6
 <strong>Output:</strong> [2,3]
 </pre><p><strong class="example">Example 2:</strong></p>
 <pre><strong>Input:</strong> nums = [1,1]
@@ -19,4 +22,6 @@
 	<li><code>2 &lt;= nums.length &lt;= 10<sup>4</sup></code></li>
 	<li><code>1 &lt;= nums[i] &lt;= 10<sup>4</sup></code></li>
 </ul>
+</div>
+=======
 </div>
